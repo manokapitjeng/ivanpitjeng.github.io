@@ -42,31 +42,31 @@ nav ul li a:hover {
 
 /* Background for the Index Page */
 body.index-page {
-    background: url('../MYWEBSITE/IMAGES/banner-image-1.jpg') no-repeat center center fixed;
+    background: url('IMAGES/banner-image-1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* Background for the About Page */
 body.about-page {
-    background: url('../MYWEBSITE/IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
+    background: url('IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* Background for the Skills Page */
 body.skills-page {
-    background: url('../MYWEBSITE/IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
+    background: url('IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* Background for the Projects Page */
 body.projects-page {
-    background: url('../MYWEBSITE/IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
+    background: url('IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* Background for the Contact Page */
 body.contact-page {
-    background: url('../MYWEBSITE/IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
+    background: url('IMAGES/pexels-share-textures-3167406-11285435.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 /* General overlay and content styles */
